@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- 湖南省第十四届芙蓉学子·学术创新奖学金.
 
-- Freshman Academic Scholarship, 2022.
+- 江苏省研究生创新论坛研究报告“一等奖”.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 湖南省第十一届研究生创新论坛优秀论文“二等奖”.
 
-- First-prize Enterprise Scholarship, 2021.
+- 第三届国际脂质科学与健康研讨会优秀墙报“三等奖”.
 
-- First-prize Academic Scholarship, 2019.
+- 国家励志奖学金；连续三年获得研究生奖学金。
