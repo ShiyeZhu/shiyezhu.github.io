@@ -1,8 +1,7 @@
 - <p><strong><strong>Extracellular enzyme mediated biotransformation of imidacloprid by white-rot fungus <i>Phanerochaete chrysosporium</i>: Mechanisms, pathways, and toxicity (2023).</strong> <br><strong>Shiye Zhu</strong>, Anwei Chen*, Youzheng Chai, Ruoyu Cao, Jianhua Zeng, Ma Bai, Liang Peng, Jihai Shao, and Xiang Wang.  
-<br><strong><em>Chemical Engineering Journal</em>: 472, 144798.</strong></p> [[Paper]](https://doi.org/10.1016/j.cej.2023.144798)
+<br><strong><em>Chemical Engineering Journal</em>: 472, 144798.</strong></p> ([Paper](https://doi.org/10.1016/j.cej.2023.144798))
 
-- <p><strong><strong>Reverse microemulsions as nano-carriers of tea polyphenols retard oxidation of <i>Eucommia ulmoides</i> oliver seed oil (2023).</strong>
-<br><strong>Shiye Zhu</strong>, Jianhua Zeng, Chen Pan, Youzheng Chai, Ma Bai, Jiaxing Li*, Anwei Chen*. <br><strong><em>Colloids and Surfaces A-Physicochemical and Engineering Aspects</em>: 671, 131687.</strong></p> [[Paper]](https://doi.org/10.1016/j.colsurfa.2023.131687)
+- <p><strong><strong>Reverse microemulsions as nano-carriers of tea polyphenols retard oxidation of <i>Eucommia ulmoides</i> oliver seed oil (2023).</strong> <br><strong>Shiye Zhu</strong>, Jianhua Zeng, Chen Pan, Youzheng Chai, Ma Bai, Jiaxing Li*, Anwei Chen*. <br><strong><em>Colloids and Surfaces A-Physicochemical and Engineering Aspects</em>: 671, 131687.</strong></p> [[Paper]](https://doi.org/10.1016/j.colsurfa.2023.131687)
 
 - <p><strong><strong>Formation and stability of <i>Eucommia ulmoides</i> Oliver seed oil‐loaded inverse microemulsion formed by food‐grade ingredients and its antioxidant activities (2020).</strong> <br><strong>Shiye Zhu</strong>, Jiaxing Li*, Yating Liu, and Liang Chen. <br><strong><em>Journal of Food Science</em>: 85(5), 1489-1499.</strong></p> [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/1750-3841.15103)
 
