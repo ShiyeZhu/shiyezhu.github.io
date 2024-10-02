@@ -11,9 +11,9 @@ I have participated in over 10 academic conferences both domestically and intern
 My research experience spans a range of areas, including the biodegradation of organic pollutants, the interaction between environmental microorganisms and substrates, the preparation of nanomaterials, transcriptome analysis, computational simulations such as molecular dynamics (MD) and density functional theory (DFT), and the characterization of nanomaterial microstructures.
 
 #### Education
-Ph.D., Enviernmental Microbiology, Hunan agricultural university, Since 2022
-M.E., Food Science, Jishou university, 2017—2020.
-B.E., Materials Science and Engineering, Jishou university, 2013—2017.
+<p>Ph.D., Enviernmental Microbiology, Hunan agricultural university, Since 2022.</p>
+<p>M.E., Food Science, Jishou university, 2017—2020.</p>
+<p>B.E., Materials Science and Engineering, Jishou university, 2013—2017.</p>
 
 #### Research Interests
 Microbes, nano-emulsion, Interface science, Enzyme, Health, Environment.
