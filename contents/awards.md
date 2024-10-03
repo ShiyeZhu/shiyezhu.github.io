@@ -5,6 +5,8 @@
 - 湖南省第十一届研究生创新论坛优秀论文“二等奖” A Second Prize of Excellent Paper Award at Hunan ProvinceThe 11th Graduate Innovation Forum 
 
 - 第三届国际脂质科学与健康研讨会优秀墙报“三等奖” A Third Prize of Poster Award at The 3rd International Symposium on Lipid Science and Health 
+
+- 湖南省第四届互联网+创新创业大赛“二等奖” A Second Prize of the 4th Internet Plus Innovation and Entrepreneurship Competition in Hunan Province
  
 - 食品科技年会研究生论坛“食品发展驱动力搜索与探索”竞赛二等奖 A Second prize in "food development driving force search and exploration" competition of the 11th graduate student foru
 
