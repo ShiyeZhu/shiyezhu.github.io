@@ -8,7 +8,7 @@
 
 - 湖南省第四届互联网+创新创业大赛“二等奖” A Second Prize of the 4th Internet Plus Innovation and Entrepreneurship Competition in Hunan Province
  
-- 食品科技年会研究生论坛“食品发展驱动力搜索与探索”竞赛二等奖 A Second prize in "food development driving force search and exploration" competition of the 11th graduate student foru
+- 食品科技年会研究生论坛“食品发展驱动力搜索与探索”竞赛二等奖 A Second Prize in "Food Development Driving Force Search and Exploration" Competition of the 11th Graduate Student Forum
 
 - 国家励志奖学金；连续三年获得研究生奖学金 National Encouragement scholarship
 
