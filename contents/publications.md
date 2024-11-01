@@ -8,7 +8,7 @@
 
 - <p><strong><strong>5. Effect of tea polyphenol on oxidative stability of peony seed oil and  shelf life prediction (2019).</strong></strong> <br><strong>Shiye Zhu</strong>, Wuguo Xiong, Jiaxing Li*, Jing Tu, Cheng Huang, and Shuangping Chen.<br><strong><em>China Oils and Fats</em>: 44(1), 92-96.</strong> DOI: http://tg.chinaoils.cn/zgyz/ch/reader/view_abstract.aspx?file_no=20190119&flag=1</p>
 
-- <p><strong><strong>6. Research progress on extraction and health-beneficial effects of <i>Eucommia ulmoids</i> oliver seed oil and its prospect of application (2019)</strong></strong>.<br><strong>Shiye Zhu</strong>, and Jiaxing Li*.<br><strong><em>Science and Technology of Food Industry</em> (EI): 40(Supplement 1), 66-70.</strong></p>
+- <p><strong><strong>6. Research progress on extraction and health-beneficial effects of <i>Eucommia ulmoids</i> oliver seed oil and its prospect of application (2019)</strong></strong>.<br><strong>Shiye Zhu</strong>, and Jiaxing Li*. <strong><em>Science and Technology of Food Industry</em> (EI): 40(Supplement 1), 66-70.</strong></p>
 
 - <p><strong><strong>7. Progress in preparation and application of vegetable  oil - based microemulsion (2018)</strong></strong>.<br><strong>Shiye Zhu</strong>, Jiaxing Li*, Zhimou Guan, Cheng Huang, Wuguo Xiong, and Shuangping Chen.<br><strong><em>China Oils and Fats</em>: 43(10), 58-64.</strong> DOI: http://tg.chinaoils.cn/zgyz/ch/reader/view_abstract.aspx?file_no=20181012&flag=1</p>
 
